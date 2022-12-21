@@ -18,7 +18,7 @@ def decode_char(code)
     ' ' => ' '
   }
 
-  result = code_char_hash.each { |key, value| return value.capitalize if key === code }
+  code_char_hash.each { |key, value| return value.capitalize if key == code }
 end
 
 # decode word method
@@ -32,6 +32,6 @@ end
 def decode_message(message)
   decodeded_message = ''
   list = message.split('   ')
-  list.each { |word| decodeded_message += decode_word(word) + ' ' }
+  list.each { |word| decodeded_message += "#{decode_word(word)} " }
   decodeded_message
 end
