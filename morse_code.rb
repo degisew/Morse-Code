@@ -32,6 +32,6 @@ end
 def decode_message(message)
   decodeded_message = ''
   list = message.split('   ')
-  list.each { |word| decodeded_message += decode_word(word) + " " }
+  list.each { |word| decodeded_message += decode_word(word) + ' ' }
   decodeded_message
 end
