@@ -26,6 +26,7 @@ After you're finished please remove all the comments and instructions!
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
+![murple_logo](https://user-images.githubusercontent.com/86473715/208989298-61c26953-a6ea-4543-9250-465e28dd057a.png)
 
   <h3><b>Microverse README Template</b></h3>
 
