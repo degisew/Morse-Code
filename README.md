@@ -99,7 +99,7 @@ A console application built with ruby that decodes a Morse code. It returns the 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> Not available yet.
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
